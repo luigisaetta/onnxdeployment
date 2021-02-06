@@ -11,11 +11,9 @@ In this repository there is the code of my tests on how to best deploy a TF 2.3 
 
 ## References
 
-[ONNX](https://onnx.ai/)
-
-[keras2onnx](https://github.com/onnx/keras-onnx)
-
-[Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29)
+* [ONNX](https://onnx.ai/)
+* [keras2onnx](https://github.com/onnx/keras-onnx)
+* [Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29)
 
 
 
